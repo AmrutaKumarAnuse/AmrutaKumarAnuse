@@ -38,5 +38,4 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 
 
-⭐️ From [Amruta Anuse](https://github.com/amruta-anuse)
-```
+📫 Let's Connect! 📍 Pune, India 💼 [LinkedIn](#) 💻 [GitHub](https://github.com/amruta-anuse) 📧 amruta@example.com
