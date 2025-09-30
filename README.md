@@ -1,5 +1,5 @@
-```markdown
- 👩‍💻 Hi there, I'm Amruta Anuse 👋  
+
+  Hi there, I'm Amruta Anuse 👋  
 Aspiring Machine Learning & Data Science | App Developer | Problem Solver | UI/UX Designer 
 
 
@@ -34,17 +34,8 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 
 
- 🌱 Currently Learning  
-- Deepfake detection techniques  
-- Advanced Computer Vision (YOLO, Transformers in Vision)  
-- Cloud-based deployment of ML models  
 
 
- 📫 Let's Connect!  
-📍 Pune, India  
-💼 [LinkedIn](#)  
-💻 [GitHub](https://github.com/amruta-anuse)  
-📧 amrutaanuse44@.com  
 
 
 ⭐️ From [Amruta Anuse](https://github.com/amruta-anuse)
