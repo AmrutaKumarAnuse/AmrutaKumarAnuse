@@ -2,12 +2,10 @@
  👩‍💻 Hi there, I'm Amruta Anuse 👋  
 Aspiring Machine Learning & Data Science | App Developer | Problem Solver | UI/UX Designer 
 
----
 
  🎯 Career Objective  
 Aspiring data scientist with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and data analytics. Skilled in building and deploying AI/ML solutions, with experience in projects ranging from computer vision to predictive modeling. Passionate about turning data into practical, impactful solutions and continuously expanding expertise in AI, ML, and data-driven applications.  
 
----
 
  🛠️ Tech Stack  
 
@@ -36,13 +34,10 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 
 
-
-
  🌱 Currently Learning  
 - Deepfake detection techniques  
 - Advanced Computer Vision (YOLO, Transformers in Vision)  
 - Cloud-based deployment of ML models  
-
 
 
  📫 Let's Connect!  
