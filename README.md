@@ -42,4 +42,9 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 📫 Let's Connect! 
 
-📍 Pune, India 💼 [LinkedIn](www.linkedin.com/in/amruta-anuse-a10a94221) 💻 [GitHub](https://github.com/AmrutaKumarAnuse) 📧 amrutaanuse44@.com
+📍 Pune, India 
+💼 [LinkedIn](www.linkedin.com/in/amruta-anuse-a10a94221) 
+
+💻 [GitHub](https://github.com/AmrutaKumarAnuse) 
+
+📧 amrutaanuse44@.com
