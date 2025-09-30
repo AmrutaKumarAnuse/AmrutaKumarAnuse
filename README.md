@@ -1,17 +1,17 @@
 ```markdown
-# 👩‍💻 Hi there, I'm Amruta Anuse 👋  
-**Aspiring Machine Learning & Data Science | App Developer | Problem Solver | UI/UX Designer **
+ 👩‍💻 Hi there, I'm Amruta Anuse 👋  
+Aspiring Machine Learning & Data Science | App Developer | Problem Solver | UI/UX Designer 
 
 ---
 
-## 🎯 Career Objective  
+ 🎯 Career Objective  
 Aspiring data scientist with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and data analytics. Skilled in building and deploying AI/ML solutions, with experience in projects ranging from computer vision to predictive modeling. Passionate about turning data into practical, impactful solutions and continuously expanding expertise in AI, ML, and data-driven applications.  
 
 ---
 
-## 🛠️ Tech Stack  
+ 🛠️ Tech Stack  
 
-### 🚀 Languages  
+ 🚀 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -19,7 +19,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 📚 Frameworks & Libraries  
+📚 Frameworks & Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
@@ -28,41 +28,29 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
-### ⚙️ Tools  
+⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
----
 
-## 📌 Featured Projects  
 
-### 🔹 [MaskSetu](#)  
-A **CNN-based application** to detect whether a person is wearing a face mask or not.  
-- **Tech Used**: Python, TensorFlow, OpenCV, Keras  
-- **Impact**: Useful for monitoring and enforcing safety measures during health crises.  
 
-### 🔹 [PriceSage](#)  
-A **Laptop Price Prediction System** built using a **Random Forest Model**.  
-- **Tech Used**: Python, Scikit-learn, Pandas, NumPy  
-- **Impact**: Helps users estimate laptop prices based on specifications to make informed decisions.  
 
----
-
-## 🌱 Currently Learning  
+ 🌱 Currently Learning  
 - Deepfake detection techniques  
 - Advanced Computer Vision (YOLO, Transformers in Vision)  
 - Cloud-based deployment of ML models  
 
----
 
-## 📫 Let's Connect!  
+
+ 📫 Let's Connect!  
 📍 Pune, India  
 💼 [LinkedIn](#)  
 💻 [GitHub](https://github.com/amruta-anuse)  
-📧 amruta@example.com  
+📧 amrutaanuse44@.com  
 
----
+
 ⭐️ From [Amruta Anuse](https://github.com/amruta-anuse)
 ```
